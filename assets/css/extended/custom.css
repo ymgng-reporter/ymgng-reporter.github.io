@@ -1,0 +1,22 @@
+body {
+  transition: background-color 0.5s, color 0.5s;
+}
+
+.first-entry {
+  margin-top: calc(var(--gap) * -2);
+  margin-bottom: calc(var(--gap) * -2);
+}
+
+.post-content h3 {
+  margin-top: 50px;
+}
+
+p,
+.post-content li {
+  font-size: 1.2rem;
+}
+
+.post-content img {
+  max-width: 100%;
+  height: auto;
+}

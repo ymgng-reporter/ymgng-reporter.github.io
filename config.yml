@@ -1,0 +1,112 @@
+baseURL: "http://example.org/"
+title: 염경중학교 학생기자단
+theme: PaperMod
+languageCode: ko
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
+
+params:
+  title: 염경중학교 학생기자단
+  description: 염경중학교 학생기자단
+  keywords: [염경중학교, 학생기자단, 2023]
+  author: 염경중학교 학생기자단
+  defaultTheme: dark
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: false
+  ShowRssButtonInSectionTermList: false
+  ShowComment: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+
+  label:
+    text: "2023 YEOMGYEONG"
+
+  profileMode:
+    enabled: false
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  homeInfoParams:
+    Title: "안녕하세요!"
+    Content: 저희는 학교의 소식을 전하는 학생기자단입니다.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/ymgng-reporter"
+    - name: youtube
+      url: "https://www.youtube.com/@ygnews2023"
+
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+menu:
+  main:
+    - identifier: search
+      name: 검색
+      url: /search
+      weight: 1
+
+    - identifier: categories
+      name: 카테고리
+      url: /categories
+      weight: 2
+
+    - identifier: tags
+      name: 태그
+      url: /tags
+      weight: 3
+
+    - identifier: archives
+      name: 아카이브
+      url: /archives
+      weight: 4
+
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: true
+    # anchorLineNos: true
+    # codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: dracula
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
