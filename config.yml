@@ -14,7 +14,7 @@ params:
   description: 염경중학교 학생기자단
   keywords: [염경중학교, 학생기자단, 2023]
   author: 염경중학교 학생기자단
-  defaultTheme: dark
+  defaultTheme: light
   disableThemeToggle: false
 
   ShowReadingTime: true
@@ -32,6 +32,9 @@ params:
   hideSummary: false
   showtoc: true
   tocopen: true
+
+  assets:
+    disableFingerprinting: true
 
   label:
     text: "2023 YEOMGYEONG"
