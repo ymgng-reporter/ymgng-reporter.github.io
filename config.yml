@@ -37,18 +37,16 @@ params:
     text: "2023 YEOMGYEONG"
 
   profileMode:
-    enabled: false
-    title: ExampleSite
-    subtitle: "This is subtitle"
-    imageUrl: "<img location>"
+    enabled: true
+    title: 염경중학교 학생기자단
+    subtitle: "저희는 학교의 소식을 전하는 학생기자단입니다."
+    imageUrl: "https://ext.fmkorea.com/files/attach/new3/20230120/2895716/1996923355/5415621369/fe192410cd5c66d7546e71706f0ee910.png"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
     buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+      - name: 기사 보러가기
+        url: categories
 
   homeInfoParams:
     Title: "안녕하세요!"
