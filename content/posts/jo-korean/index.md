@@ -8,7 +8,7 @@ tags:
   - 국어
   - 선생님 인터뷰
 ---
-<img src="./images/조아영선생님.PNG" title="조아영 선생님">
+{{< img src="/posts/jo-korean/images/조아영선생님.PNG" title="조아영 선생님" >}}
 
 ### Q1. 선생님 소개 부탁드립니다!
 
