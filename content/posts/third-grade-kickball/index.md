@@ -104,6 +104,10 @@ A. 몇몇 애들이 다친 것 같지만 다른 반에 비해서는 부상자가
 
 A. 엽떡이랑 허니콤보가 맛있다 (웃음)
 
+{{% youtube JFEk6C2u-IY %}}
+{{% youtube XkCLdbv5z6g %}}
+{{% youtube jIGrFLXGRVQ %}}
+
 ㅤ
 
 #### 김하윤, 송지현 기자
