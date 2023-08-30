@@ -42,7 +42,7 @@ params:
   profileMode:
     enabled: true
     title: 염경중학교 학생기자단
-    subtitle: "저희는 학교의 소식을 전하는 학생기자단입니다."
+    subtitle: "우리는 학교의 소식을 전하는 학생기자단입니다."
     imageUrl: "https://i.imgur.com/KTUEQUe.png"
     imageWidth: 120
     imageHeight: 120
