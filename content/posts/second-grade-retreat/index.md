@@ -43,4 +43,4 @@ tags:
 {{% youtube hw1dJFjgB0k %}}
 {{% youtube CSp7arvZvag %}}
 
-#### 영상 : 서다연 기자
+#### 영상 : 서다연, 심하경 기자
