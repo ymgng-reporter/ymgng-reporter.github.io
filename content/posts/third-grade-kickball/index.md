@@ -14,7 +14,7 @@ tags:
 
 ### 서정우 학생 인터뷰
 
-{{< img src="/posts/third-grade-kickball/images/서정우.PNG" title="사진 게재 동의" >}}
+{{< img src="/posts/third-grade-kickball/images/서정우.PNG" title="서정우 학생 / 사진 게재 동의" >}}
 
 ### Q1. 자기소개 부탁드릴게요.
 
