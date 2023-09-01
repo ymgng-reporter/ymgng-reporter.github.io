@@ -12,5 +12,6 @@ tags:
 
 {{< img src="/posts/class-motto/images/1학년급훈.PNG" title="1학년 급훈" >}}
 {{< img src="/posts/class-motto/images/2학년급훈.PNG" title="2학년 급훈" >}}
+{{< img src="/posts/class-motto/images/3학년급훈.PNG" title="3학년 급훈" >}}
 
 #### 이희연 기자
