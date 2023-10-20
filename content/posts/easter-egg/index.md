@@ -1,8 +1,10 @@
 ---
 title: "이스터에그"
 summary: "EASTER EGG"
-date: 2024-12-31
 categories: [""]
+date: 2023-12-31
+tags:
+ 
 ---
 
 이스터에그 파일입니다.
