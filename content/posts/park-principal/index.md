@@ -2,13 +2,13 @@
 title: "박형준 교장 선생님"
 summary: "새로 부임하신 박형준 교장 선생님을 인터뷰해보았다."
 categories: ["선생님 인터뷰", "2학기"]
-date: 2023-10-20
+date: 2023-11-03
 tags:
   - 박형준 교장 선생님
   - 선생님 인터뷰
 ---
 
-{{< img src="/posts/park-principal/images/Screenshot 2023-10-20 2.47.13 PM.png" title="박형준 교장 선생님" >}}
+{{< img src="/posts/park-principal/images/Screenshot 2023-10-20 2.47.13 PM.png" title="박형준 교장 선생님 / 사진 게재 동의" >}}
 
 ### Q1. 교장 선생님, 자기소개 부탁드립니다.
 A. 교사로 1989년부터 2013년까지 근무하다 2013년에서 6년 정도 장학사 생활 하였습니다. 그 후 2019년 수명중학교 교감으로 재직하고 2023년 9월 부로 교장으로 부임하였습니다.
